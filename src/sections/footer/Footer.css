@@ -1,0 +1,19 @@
+.footer-container{
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #181D31;
+    position:relative;
+    bottom: 0;
+    
+}
+.footer-container p{
+    color: white;
+    /* margin-right: 1%; */
+}
+
+/* .footer-container>a{
+    padding-right: 1%;
+} */
